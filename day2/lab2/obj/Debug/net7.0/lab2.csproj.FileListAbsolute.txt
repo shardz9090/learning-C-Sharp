@@ -1,0 +1,15 @@
+E:\.net lab\lab2\lab2\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+E:\.net lab\lab2\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net lab\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+E:\.net lab\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+E:\.net lab\lab2\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+E:\.net lab\lab2\lab2\bin\Debug\net7.0\lab2.exe
+E:\.net lab\lab2\lab2\bin\Debug\net7.0\lab2.deps.json
+E:\.net lab\lab2\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+E:\.net lab\lab2\lab2\bin\Debug\net7.0\lab2.dll
+E:\.net lab\lab2\lab2\bin\Debug\net7.0\lab2.pdb
+E:\.net lab\lab2\lab2\obj\Debug\net7.0\lab2.dll
+E:\.net lab\lab2\lab2\obj\Debug\net7.0\refint\lab2.dll
+E:\.net lab\lab2\lab2\obj\Debug\net7.0\lab2.pdb
+E:\.net lab\lab2\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+E:\.net lab\lab2\lab2\obj\Debug\net7.0\ref\lab2.dll

@@ -1,0 +1,15 @@
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\lab6.exe
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\lab6.deps.json
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\lab6.runtimeconfig.json
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\lab6.dll
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\lab6.pdb
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\lab6.csproj.AssemblyReference.cache
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\lab6.AssemblyInfoInputs.cache
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\lab6.AssemblyInfo.cs
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\lab6.csproj.CoreCompileInputs.cache
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\lab6.dll
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\lab6.dll
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\lab6.pdb
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\lab6.genruntimeconfig.cache
+E:\.net lab\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\lab6.dll
